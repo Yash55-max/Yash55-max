@@ -1,4 +1,4 @@
-Hi there, I'm Yash 👋  
+Hi there, I'm Yashwanth 👋  
 
 💡 **Aspiring Data Scientist** | Passionate about **AI, ML, and Data Analytics**  
 🚀 Continuously learning and building projects that solve real-world challenges  
