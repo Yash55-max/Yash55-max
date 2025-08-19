@@ -14,7 +14,7 @@ Hi there, I'm Yash 👋
 ---
 
 ## 🔹 Skills & Tools
-- **Languages**: Python,  
+- **Languages**: Python
 - **Data & ML**: Pandas, NumPy
 - **Other**: Git/GitHub, Google Colab, VS Code  
 - **Learning**: Deep Learning, NLP  
