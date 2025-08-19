@@ -9,17 +9,17 @@ Hi there, I'm Yash 👋
 - 🛠️ Working on projects like **Stock Management Bot** (voice-powered AI for inventory)  
 - 📊 Interested in **Data Science, Predictive Modeling, and Analytics**  
 - 🌱 Currently improving my skills through **projects + internships**  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yashwanth-ponnam) | [Email](mailto:yashwanthponnam55@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yashwanth-ponnam) | [Email](mailto:yashwanthponnam55@gmail.com)
 
 
-  ## 🔹 Goals for 2025
+🔹 Goals for 2025
 - Secure an internship in Data Science / AI / ML  
 - Contribute to open-source projects  
 - Build more real-world AI/ML applications  
 
 ---
 
-## 🔹 Skills & Tools
+🔹 Skills & Tools
 - **Languages**: Python
 - **Data & ML**: Pandas, NumPy
 - **Other**: Git/GitHub, Google Colab, VS Code  
@@ -28,7 +28,7 @@ Hi there, I'm Yash 👋
 
 ---
 
-## 🔹 Featured Projects
+🔹 Featured Projects
 🔹 [StockBot-Google-Colab](https://github.com/Yash55-max/StockBot-Google-Colab-)  
 *AI-powered inventory assistant with voice recognition and stock management.*  
 
@@ -36,8 +36,7 @@ Hi there, I'm Yash 👋
 *Projects from IBM x AICTE internship program (AI, ML, and DS focus).*  
 
 ---
-
-## 🔹 GitHub Stats
+🔹 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&theme=tokyonight)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash55-max&theme=tokyo-night)
