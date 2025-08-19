@@ -10,7 +10,13 @@ Hi there, I'm Yash 👋
 - 📊 Interested in **Data Science, Predictive Modeling, and Analytics**  
 - 🌱 Currently improving my skills through **projects + internships**  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yashwanth-ponnam) | [Email](mailto:yashwanthponnam55@gmail.com)
-  
+
+
+  ## 🔹 Goals for 2025
+- Secure an internship in Data Science / AI / ML  
+- Contribute to open-source projects  
+- Build more real-world AI/ML applications  
+
 ---
 
 ## 🔹 Skills & Tools
@@ -18,7 +24,7 @@ Hi there, I'm Yash 👋
 - **Data & ML**: Pandas, NumPy
 - **Other**: Git/GitHub, Google Colab, VS Code  
 - **Learning**: Deep Learning, NLP
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -34,6 +40,7 @@ Hi there, I'm Yash 👋
 ## 🔹 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&theme=tokyonight)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash55-max&theme=tokyo-night)
 
 ---
 
