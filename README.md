@@ -9,9 +9,7 @@ Hi there, I'm Yash 👋
 - 🛠️ Working on projects like **Stock Management Bot** (voice-powered AI for inventory)  
 - 📊 Interested in **Data Science, Predictive Modeling, and Analytics**  
 - 🌱 Currently improving my skills through **projects + internships**  
-- 📫 Reach me: [LinkedIn] (https://www.linkedin.com/in/yashwanth-ponnam) | [Email] (mailto:yashwanth@gmail.com)
-)
-
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yashwanth-ponnam) | [Email](mailto:yashwanth@gmail.com)
   
 ---
 
