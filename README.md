@@ -34,7 +34,7 @@ Hi there, I'm Yashwanth 👋
 
 ---
 🔹 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight)  
+(https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&theme=tokyonight)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash55-max&theme=tokyo-night)
 
