@@ -14,6 +14,11 @@ Hi there, I'm Yashwanth 👋
 🔹 2025 Goal: "Secure a Data Science internship, contribute to open source, and build impactful ML/AI applications".
 
 ---
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.unfav_.yash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanthponnam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 🔹 Skills & Tools
 - **Languages**: Python
@@ -32,11 +37,19 @@ Hi there, I'm Yashwanth 👋
 🔹 [IBM Skills Build Projects](https://github.com/Yash55-max/IBM-skills-build)  
  *Projects from IBM x AICTE internship program (AI, ML, and DS focus).*  
 
----
-🔹 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&theme=tokyonight)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash55-max&theme=tokyo-night)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yash55-max&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yash55-max&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yash55-max&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yash55-max&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-⭐️ *“Data is the new oil, and I aim to refine it into insights.”*  
+[![](https://visitcount.itsvg.in/api?id=Yash55-max&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
