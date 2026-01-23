@@ -29,14 +29,13 @@ Hi there, I'm Yashwanth 👋
 
 ---
 
-🔹 Featured Projects
+🔹 Featured Projects :-
 🔹 [EventSync](https://github.com/Yash55-max/EventSyncNew) 
  *An Event management sysytem for meetups, Hackathons and other with rewards system
 🔹 [StockBot-Google-Colab](https://github.com/Yash55-max/StockBot-Google-Colab-)  
  *AI-powered inventory assistant with voice recognition and stock management.*  
- 
 🔹[**PhoneBook Application**](https://github.com/Yash55-max/PhoneBook_)
-  * A modern, responsive phonebook web app featuring CRUD operations, image uploads (PNG/JPG up to 1 MB), favorites, and instant search. Built with HTML, CSS, JavaScript, and dual backend options (Node.js/Express     or Python HTTP server).*
+ * A modern, responsive phonebook web app featuring CRUD operations, image uploads (PNG/JPG up to 1 MB), favorites, and instant search. Built with HTML, CSS, JavaScript, and dual backend options (Node.js/Express     or Python HTTP server).*
 🔹 [IBM Skills Build Projects](https://github.com/Yash55-max/IBM-skills-build)  
  *Projects from IBM x AICTE internship program (AI, ML, and DS focus).*
 
