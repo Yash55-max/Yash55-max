@@ -11,7 +11,7 @@ Hi there, I'm Yashwanth 👋
 - 🌱 Currently improving my skills through **projects + internships**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yashwanth-ponnam) | [Email](mailto:yashwanthponnam55@gmail.com)
 
-🔹 2025 Goal: "Secure a Data Science internship, contribute to open source, and build impactful ML/AI applications".
+🔹 2026 Goal: "Secure a Data Science role, contribute to open source, and build impactful ML/AI applications".
 
 ---
 ## 🌐 Socials:
