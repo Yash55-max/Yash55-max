@@ -8,14 +8,13 @@ Hi there, I'm Yashwanth 👋
 - 🎓 B.Tech Student (3rd Year) | Exploring **Data Science**  
 - 🛠️ Working on projects like **Stock Management Bot** (voice-powered AI for inventory)  
 - 📊 Interested in **Data Science, Predictive Modeling, and Analytics**  
-- 🌱 Currently improving my skills through **projects + internships**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yashwanth-ponnam) | [Email](mailto:yashwanthponnam55@gmail.com)
+- 🌱 Currently improving my skills through **projects + internships**
 
 🔹 2026 Goal: "Secure a Data Science role, contribute to open source, and build impactful ML/AI applications".
 
 ---
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.unfav_.yash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yashwanthponnam](https://www.linkedin.com/in/yashwanth-ponnam)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.unfav_.yash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yashwanthponnam](https://www.linkedin.com/in/yashwanth-ponnam)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-D14836?logo=reddit&logoColor=white)](https://www.reddit.com/user/Solid-Ad8556/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
