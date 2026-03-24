@@ -33,9 +33,17 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎙️ **Stock Management Bot** | Voice-powered AI assistant for real-time inventory tracking and management | Python, Speech Recognition, AI |
-
-> 💡 More projects coming soon — always building!
+| 🤖 [**StockBot (Web)**](https://github.com/Yash55-max/StockBot-) | Web-based inventory management system that automates stock tracking and sales monitoring for retail. Manages bottles & full cases, updates stock in real-time with data-driven automation. | Python, Web |
+| 🎙️ [**StockBot (Voice / Colab)**](https://github.com/Yash55-max/StockBot-Google-Collab-) | Voice-enabled stock management system on Google Colab. Tracks soft-drink inventory via CSV, with speech-based input and output for hands-free, automated stock handling. | Python, Speech Recognition, Jupyter |
+| 📱 [**PhoneBook**](https://github.com/Yash55-max/PhoneBook_) | Modern responsive Phonebook web app — add, edit, delete and search contacts in real time, with image uploads, favourites, and a clean mobile-friendly UI. | JavaScript, HTML, CSS, Node.js / Python |
+| 🎵 [**Media Muse**](https://github.com/Yash55-max/Media-Muse) | AI-powered music recommendation web app that personalises suggestions using Spotify API, Gemini API, and location data for context-aware recommendations. | TypeScript, Spotify API, Gemini API |
+| 📊 [**BTC Regime Analysis**](https://github.com/Yash55-max/Btc-Regime-Analysis) | Quantitative framework (The Sentinel Project) for detecting and trading Bitcoin market regimes using a dual-window detection engine that adapts exposure based on market drift. | Python, Quant Finance |
+| 🎲 [**PathDiverge**](https://github.com/Yash55-max/PathDiverge) | Full-stack Monte Carlo simulation platform that models how early career decisions impact long-term outcomes — simulates 2 500+ trajectories per run with Director+ probability and retirement projections. | JavaScript, Simulation |
+| 🦋 [**Career Path Butterfly Simulator**](https://github.com/Yash55-max/Career-path-butterfly-simulator) | Simulation-driven causal modelling system using probabilistic state transitions and counterfactual analysis to study long-term career outcome divergence. | Python |
+| 📅 [**EventSync**](https://github.com/Yash55-max/EventSyncNew) | Event synchronisation and management application. | Python |
+| 🚌 [**TransRoute**](https://github.com/Yash55-max/TransRoute) | Transportation routing web application. | JavaScript |
+| 🎬 [**Film Voyager**](https://github.com/Yash55-max/Film-Voyager) | Movie recommendation website. | Web |
+| 📈 [**Student Performance Tracker**](https://github.com/Yash55-max/Student-Performance-Tracker) | Web-based dashboard to track and visualise student academic performance. | HTML |
 
 ---
 
