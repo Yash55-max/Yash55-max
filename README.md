@@ -68,15 +68,14 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🤖 [**StockBot (Web)**](https://github.com/Yash55-max/StockBot-) | Web-based inventory management system that automates stock tracking and sales monitoring for retail. Manages bottles & full cases, updates stock in real-time with data-driven automation. | Python, HTML, CSS, JavaScript |
-| 🎙️ [**StockBot (Voice / Colab)**](https://github.com/Yash55-max/StockBot-Google-Collab-) | Voice-enabled stock management system on Google Colab. Tracks soft-drink inventory via CSV, with speech-based input and output for hands-free, automated stock handling. | Python, Speech Recognition, Jupyter |
-| 🎵 [**Media Muse**](https://github.com/Yash55-max/Media-Muse) | AI-powered music recommendation web app that personalizes suggestions using Spotify API, Gemini API, and location data for context-aware recommendations. | TypeScript, Spotify API, Gemini API |
-| 📊 [**BTC Regime Analysis**](https://github.com/Yash55-max/Btc-Regime-Analysis) | Quantitative framework (The Sentinel Project) for detecting and trading Bitcoin market regimes using a dual-window detection engine that adapts exposure based on market drift. | Python, Quant Finance |
 | 🎲 [**PathDiverge**](https://github.com/Yash55-max/PathDiverge) | Full-stack Monte Carlo simulation platform that models how early career decisions impact long-term outcomes — simulates 2,500+ trajectories per run with Director+ probability and retirement projections. | JavaScript, React, Python |
+| 🤖 [**StockBot (Web)**](https://github.com/Yash55-max/StockBot-) | Web-based inventory management system that automates stock tracking and sales monitoring for retail. Manages, updates stock in real-time with data-driven automation. | Python, HTML, CSS, JavaScript |
+| 📊 [**BTC Regime Analysis**](https://github.com/Yash55-max/Btc-Regime-Analysis) | Quantitative framework (The Sentinel Project) for detecting and trading Bitcoin market regimes using a dual-window detection engine that adapts exposure based on market drift. | Python, Quant Finance |
+ 📅 [**EventSync**](https://github.com/Yash55-max/EventSyncNew) | Event synchronisation and management application. | Python, HTML, CSS, JavaScript |
+| 🎵 [**Media Muse**](https://github.com/Yash55-max/Media-Muse) | AI-powered music recommendation web app that personalizes suggestions using Spotify API, Gemini API, and location data for context-aware recommendations. | TypeScript, Spotify API, Gemini API |
+| 🎙️ [**StockBot (Voice / Colab)**](https://github.com/Yash55-max/StockBot-Google-Collab-) | Voice-enabled stock management system on Google Colab. Tracks soft-drink inventory via CSV, with speech-based input and output for hands-free, automated stock handling. | Python, Speech Recognition, Jupyter |
 | 🦋 [**Career Path Butterfly Simulator**](https://github.com/Yash55-max/Career-path-butterfly-simulator) | Simulation-driven causal modelling system using probabilistic state transitions and counterfactual analysis to study long-term career outcome divergence. | Python |
-| 📅 [**EventSync**](https://github.com/Yash55-max/EventSyncNew) | Event synchronisation and management application. | Python |
 | 📈 [**Student Performance Tracker**](https://github.com/Yash55-max/Student-Performance-Tracker) | Web-based dashboard to track and visualize student academic performance. | HTML, CSS, JavaScript |
-
 ---
 
 
