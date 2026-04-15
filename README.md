@@ -22,7 +22,6 @@
 
 - 🎓 **B.Tech Student** passionate about turning data into actionable insights
 - 🤖 Building **AI/ML projects** that tackle real-world problems
-- 🛠️ Currently developing a **Voice-Powered Stock Management Bot** — an AI assistant for inventory control using speech recognition
 - 📊 Deeply interested in **Predictive Modeling, NLP, and Data Analytics**
 - 🌱 Actively learning **Deep Learning** and **Natural Language Processing**
 - 🎯 **2026 Goal**: Land a Data Science role, contribute to open source, and ship impactful ML applications
