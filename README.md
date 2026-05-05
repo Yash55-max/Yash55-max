@@ -83,9 +83,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash55-max&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash55-max&theme=nightowl&hide_border=false&show_icons=true" alt="GitHub Stats"/>
   <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yash55-max&theme=vue-dark" alt="GitHub Streak"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Yash55-max&theme=nightowl" alt="GitHub Streak"/></a>
 </p>
 
 ## 🏆 GitHub Trophies
@@ -97,7 +97,7 @@
 ### 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&theme=nightowl&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -108,6 +108,6 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Yash55-max&icon=0&color=0" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Yash55-max&color=blue&style=flat" alt="Profile Views"/>
   </a>
 </p>
