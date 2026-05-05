@@ -85,7 +85,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash55-max&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
   <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yash55-max&theme=android-dark" alt="GitHub Streak"/></a>
+  <a href="https://git.io/streak-stats"><img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Yash55-max&theme=vue-dark)](https://git.io/streak-stats)"/></a>
 </p>
 
 ## 🏆 GitHub Trophies
