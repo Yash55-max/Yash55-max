@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Yash55-max)
 
-**Open to Full-Time Opportunities | Available from May 2026**
-
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Production+ML+Systems;Ethical+AI+%26+Bias+Detection;Data-Driven+Decision+Intelligence)
