@@ -10,6 +10,10 @@
 
 **Open to Full-Time Opportunities | Available from May 2026**
 
+<br/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Production+ML+Systems;Ethical+AI+%26+Bias+Detection;Data-Driven+Decision+Intelligence)
+
 </div>
 
 ---
@@ -183,6 +187,16 @@ class DataScientist:
 
 ---
 
+## 🔥 Contribution Graph
+
+<div align="center">
+
+[![Yashwanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash55-max&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 
 ## 📈 Why Hire Me?
 
@@ -211,14 +225,22 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yash55-max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yash55-max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27)](https://git.io/streak-stats)
+
+<br/>
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yash55-max&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -226,14 +248,35 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 
 ## 🎓 Education & Continuous Learning
 
+<table>
+<tr>
+<td width="60%">
+
 **Bachelor of Technology in Computer Science Engineering**
 *Expected Graduation: May 2026*
 
-📚 Currently Deep Diving Into:
+📚 **Currently Deep Diving Into:**
 - Advanced Deep Learning Architectures (Transformers, LLMs)
 - MLOps & Model Deployment Best Practices
 - Causal Inference & Explainable AI
 - System Design for ML Applications
+
+</td>
+<td width="40%" align="center">
+
+### 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-Tracking-blue?style=flat-square&logo=clockify)
+
+**Languages I Code In:**
+
+Python     ████████████░░░  75%
+JavaScript ████░░░░░░░░░░░  25%
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -260,10 +303,40 @@ I'm seeking **full-time opportunities** where I can:
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash55-max)
 
+</div>
+
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Yash55-max&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Yash55-max/Yash55-max/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yash55-max&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
 
 **⭐ If you find my work interesting, consider starring my repositories!**
+
+<br/>
+
+### 🎯 Profile Powered By
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
