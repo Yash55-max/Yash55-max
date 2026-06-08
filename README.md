@@ -183,6 +183,41 @@ class DataScientist:
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<br/><br/>
+
+### 📊 Language Usage & Skills Breakdown
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
+
+### 🎯 Skill Levels
+
+<table>
+<tr>
+<td width="50%">
+
+**Languages**
+```text
+Python         ████████████████████ 95%
+JavaScript     ████████████████░░░░ 80%
+TypeScript     ███████████████░░░░░ 75%
+SQL            ██████████████░░░░░░ 70%
+```
+
+</td>
+<td width="50%">
+
+**Frameworks & Tools**
+```text
+React          ████████████████░░░░ 85%
+TensorFlow     ███████████████░░░░░ 75%
+Firebase       ████████████████░░░░ 80%
+Git            ████████████████████ 90%
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -330,10 +365,22 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
+<table>
+<tr>
+<td width="50%">
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yash55-max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27)](https://git.io/streak-stats)
 
@@ -342,6 +389,31 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 ### 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yash55-max&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+### 📈 Contribution Stats
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/commit-activity/y/Yash55-max/FairHire-AI?style=flat-square&logo=github&label=Yearly%20Commits&color=success"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/issues-pr-closed/Yash55-max/Decidr?style=flat-square&logo=github&label=Closed%20PRs&color=blueviolet"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/issues-closed/Yash55-max/Vote-Saathi?style=flat-square&logo=github&label=Closed%20Issues&color=red"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/contributors/Yash55-max/Yash55-max?style=flat-square&logo=github&label=Contributors&color=orange"/>
+</td>
+</tr>
+</table>
+
+### 🌐 GitHub Skyline
+
+[![GitHub Skyline](https://img.shields.io/badge/View_My_GitHub_Skyline_2024-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Yash55-max/2024)
 
 </div>
 
