@@ -197,6 +197,107 @@ class DataScientist:
 
 ---
 
+## 🎨 Developer Widgets & Real-Time Metrics
+
+<div align="center">
+
+### 📊 GitHub Stats Dashboard
+
+<table>
+<tr>
+<td align="center">
+
+**Profile Summary Card**
+
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash55-max&theme=tokyonight)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Commit Time Distribution**
+
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yash55-max&theme=tokyonight&utcOffset=8)
+
+</td>
+</tr>
+</table>
+
+### 🏅 Advanced Metrics
+
+<table>
+<tr>
+<td width="50%">
+
+**Most Used Languages (By Commit)**
+
+![Language Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash55-max&theme=tokyonight)
+
+</td>
+<td width="50%">
+
+**Most Used Languages (By Repo)**
+
+![Language Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash55-max&theme=tokyonight)
+
+</td>
+</tr>
+</table>
+
+### 🔥 Contribution Heatmap
+
+![GitHub Contributions](https://ssr-contributions-svg.vercel.app/_/Yash55-max?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30&theme=pink)
+
+### 📈 Additional Developer Insights
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Total Stars Earned**
+
+![Stars](https://img.shields.io/github/stars/Yash55-max?style=for-the-badge&logo=github&logoColor=white&color=yellow)
+
+</td>
+<td align="center" width="33%">
+
+**Followers**
+
+![Followers](https://img.shields.io/github/followers/Yash55-max?style=for-the-badge&logo=github&logoColor=white&color=blue)
+
+</td>
+<td align="center" width="33%">
+
+**Public Repositories**
+
+![Repos](https://badges.pufler.dev/repos/Yash55-max?style=for-the-badge&logo=github&logoColor=white&color=green)
+
+</td>
+</tr>
+</table>
+
+### 💻 Coding Activity Tracker
+
+<!--START_SECTION:waka-->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yash55max&theme=tokyonight&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+<!--END_SECTION:waka-->
+
+### 🌟 Repository Stats
+
+![Total Commits](https://img.shields.io/github/commit-activity/m/Yash55-max/FairHire-AI?style=for-the-badge&logo=git&logoColor=white&label=Commits%20(FairHire-AI))
+![Last Commit](https://img.shields.io/github/last-commit/Yash55-max/Decidr?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit%20(Decidr))
+![Code Size](https://img.shields.io/github/languages/code-size/Yash55-max/Vote-Saathi?style=for-the-badge&logo=files&logoColor=white&label=Vote-Saathi%20Size)
+
+### ⚡ Real-Time Activity
+
+![Activity](https://img.shields.io/github/commit-activity/w/Yash55-max/Yash55-max?style=for-the-badge&logo=github&label=Weekly%20Commits)
+![Updated](https://img.shields.io/github/last-commit/Yash55-max/Yash55-max?style=for-the-badge&logo=clockify&label=Profile%20Updated)
+
+</div>
+
+---
+
 
 ## 📈 Why Hire Me?
 
