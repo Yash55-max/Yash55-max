@@ -503,11 +503,4 @@ I'm seeking **full-time opportunities** where I can:
 **⭐ If you find my work interesting, consider starring my repositories!**
 
 <br/>
-
-### 🎯 Profile Powered By
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
 </div>
