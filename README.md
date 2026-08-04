@@ -16,6 +16,36 @@
 
 ---
 
+```text
+      :::::--=++++=:-==+++----:              yashwanth@ponnam ----------------------------------------------------
+  ::::::--=*#=:           *%#=:::            OS:                  Linux (Ubuntu), Android, Windows
+::::----==**                 *#--:           Uptime:              21 years, 8 months (B.Tech Class of 2026)
+::---===++%                    #--::         Role:                AI/ML Engineer & Full-Stack Developer
+::----=++=#                    =*--:         Host:                B.Tech in Computer Science Engineering (2022-2026)
+:---===+*+*      MMM-           @---:        Kernel:              Machine Learning & Decision Intelligence Pipelines
+--=====+**#     MMMMMMM#        @---::       IDE:                 VS Code, Jupyter, Google Colab
+--==+++***%-   MMMMMMMM        =%-=-::       
+-===++**#*#MM  +:   M          :%=--::       Languages.Prog:      Python, JavaScript, TypeScript, SQL, C++
+-===+++****#M *%.  -M  =        ++=--:       Languages.Web/Data:  HTML5, CSS3, JSON, YAML, Markdown
+-===++*****#*%MMMMMMM. *MM%.    *=---::      Languages.Real:      English, Telugu, Hindi
+-==+++****#**M#MMMMMM  -M%.    .%==-:::      
+-==+++******=M-:M%           :%#==--:        Frameworks.ML:       scikit-learn, TensorFlow, PyTorch, SHAP, Pandas
+-=+++++*******+ +  %M:       @*===-:::       Frameworks.Web:      React, Next.js, Firebase, TailwindCSS
+-==++++*******@: -MM:  .     M-==--::        AI.APIs/Cloud:       Gemini AI, Google Cloud Platform, Vercel, Render
+--==++++**+***#M.           .@*+--:::::...   
+--==++++++**#M==M.           : M#=-::::...   Contact ------------------------------------------------------------
+--===+=+*%M@%: %MMM=:       M:  .+*+-:....   Email.Personal:      yashwanthponnam55@gmail.com
+::--+*%@#:     +M@MMMM=.:: MM       .-=-:.   LinkedIn:            linkedin.com/in/yashwanth-ponnam
+-=**+-.        .MM:-%@+-:.%M%           :.   GitHub:              github.com/Yash55-max
+..              M:MM- -@MMM+                 
+                MMMMMM=MMMMM                 GitHub Stats -------------------------------------------------------
+                MMMMMMMMMMMM                 Repos:    37+ (Contributed: 15+) | Stars: 20+     | Followers: 6+
+                @MMMMMMMMMMM                 Commits:  1,000+               | Status: Shipping Production-Ready AI
+                .MMMMMMMMMM.                 Specialty: Ethical AI, Bias Auditing & Predictive Analytics
+```
+
+---
+
 ## What I Bring to the Table
 
 ```python
