@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Yashwanth Ponnam
+# Yashwanth Ponnam
 
 ### AI/ML Engineer | Building Intelligence into Products
 
@@ -10,13 +10,13 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Production+ML+Systems;Ethical+AI+%26+Bias+Detection;Data-Driven+Decision+Intelligence)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Production+ML+Systems;Ethical+AI+%26+Bias+Detection;Data-Driven+Decision+Intelligence)
 
 </div>
 
 ---
 
-## 🎯 What I Bring to the Table
+## What I Bring to the Table
 
 ```python
 class DataScientist:
@@ -37,19 +37,19 @@ class DataScientist:
         return "Building AI systems that solve real problems, not just demos"
 ```
 
-**💡 My Differentiator**: I don't just build models — I ship production-ready AI applications with measurable business impact. From bias auditing platforms to real-time decision intelligence, I bridge the gap between research and deployment.
+**Key Differentiator**: I don't just build models — I ship production-ready AI applications with measurable business impact. From bias auditing platforms to real-time decision intelligence, I bridge the gap between research and deployment.
 
 ---
 
-## 🚀 Impactful Projects (That Actually Matter)
+## Impactful Projects
 
-### 🏢 **Enterprise AI & Ethics**
+### **Enterprise AI & Ethics**
 
 <table>
 <tr>
 <td width="50%">
 
-#### ⚖️ [FairHire AI](https://github.com/Yash55-max/FairHire-AI)
+#### [FairHire AI](https://github.com/Yash55-max/FairHire-AI)
 **Enterprise hiring bias detection platform**
 
 - Built end-to-end ML pipeline for automated bias auditing
@@ -62,7 +62,7 @@ class DataScientist:
 </td>
 <td width="50%">
 
-#### 🧠 [Decidr](https://github.com/Yash55-max/Decidr)
+#### [Decidr](https://github.com/Yash55-max/Decidr)
 **AI-powered decision intelligence platform**
 
 - Combined data analysis, ML modeling, and reasoning engines
@@ -76,13 +76,13 @@ class DataScientist:
 </tr>
 </table>
 
-### 💼 **Product & User Experience**
+### **Product & User Experience**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🗳️ [Vote Saathi](https://github.com/Yash55-max/Vote-Saathi)
+#### [Vote Saathi](https://github.com/Yash55-max/Vote-Saathi)
 **Context-aware election assistant for India**
 
 - Integrated Gemini AI with Google Maps for localized guidance
@@ -95,7 +95,7 @@ class DataScientist:
 </td>
 <td width="50%">
 
-#### 🌙 [Last Signal](https://github.com/Yash55-max/Last-Signal)
+#### [Last Signal](https://github.com/Yash55-max/Last-Signal)
 **Anonymous late-night connection PWA**
 
 - Real-time 1:1 chat unlocked only during "signal windows"
@@ -109,13 +109,13 @@ class DataScientist:
 </tr>
 </table>
 
-### 📊 **Quantitative Analysis & Simulation**
+### **Quantitative Analysis & Simulation**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎲 [PathDiverge](https://github.com/Yash55-max/PathDiverge)
+#### [PathDiverge](https://github.com/Yash55-max/PathDiverge)
 **Monte Carlo career trajectory simulator**
 
 - Runs 2,500+ simulations per session for career outcomes
@@ -128,7 +128,7 @@ class DataScientist:
 </td>
 <td width="50%">
 
-#### 📈 [BTC Regime Analysis](https://github.com/Yash55-max/Btc-Regime-Analysis)
+#### [BTC Regime Analysis](https://github.com/Yash55-max/Btc-Regime-Analysis)
 **Quantitative Bitcoin trading framework**
 
 - Dual-window detection engine for market regime identification
@@ -142,15 +142,15 @@ class DataScientist:
 </tr>
 </table>
 
-### 🎯 **More Production Apps**
+### **More Production Apps**
 
 | Project | Problem Solved | Key Achievement |
 |---------|---------------|-----------------|
-| 🏟️ [**FlowSync AI**](https://github.com/Yash55-max/FlowSync-AI) | Crowd management at large events | Optimizes attendee flow & reduces wait times |
-| 🎵 [**Media Muse**](https://github.com/Yash55-max/Media-Muse) | Generic music recommendations | Context-aware suggestions using location + time + mood |
-| 🤖 [**StockBot**](https://github.com/Yash55-max/StockBot-) | Manual inventory tracking | Real-time automated stock management system |
+| [**FlowSync AI**](https://github.com/Yash55-max/FlowSync-AI) | Crowd management at large events | Optimizes attendee flow & reduces wait times |
+| [**Media Muse**](https://github.com/Yash55-max/Media-Muse) | Generic music recommendations | Context-aware suggestions using location + time + mood |
+| [**StockBot**](https://github.com/Yash55-max/StockBot-) | Manual inventory tracking | Real-time automated stock management system |
 
-## 💻 Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
@@ -183,11 +183,11 @@ class DataScientist:
 
 <br/><br/>
 
-### 📊 Language Usage & Skills Breakdown
+### Language Usage & Skills Breakdown
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yash55-max&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
 
-### 🎯 Skill Levels
+### Skill Levels
 
 <table>
 <tr>
@@ -220,7 +220,7 @@ Git            ████████████████████ 90%
 
 ---
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -230,59 +230,17 @@ Git            ████████████████████ 90%
 
 ---
 
-## 🎨 Developer Widgets & Real-Time Metrics
+## Real-Time Metrics & Developer Insights
 
 <div align="center">
 
-### 📊 GitHub Stats Dashboard
+### Contribution Heatmap
 
-<table>
-<tr>
-<td align="center">
+![GitHub Contributions](https://ghchart.rshah.org/38BCF7/Yash55-max)
 
-**Profile Summary Card**
+<br/>
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash55-max&theme=tokyonight)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Commit Time Distribution**
-
-![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yash55-max&theme=tokyonight&utcOffset=8)
-
-</td>
-</tr>
-</table>
-
-### 🏅 Advanced Metrics
-
-<table>
-<tr>
-<td width="50%">
-
-**Most Used Languages (By Commit)**
-
-![Language Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash55-max&theme=tokyonight)
-
-</td>
-<td width="50%">
-
-**Most Used Languages (By Repo)**
-
-![Language Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash55-max&theme=tokyonight)
-
-</td>
-</tr>
-</table>
-
-### 🔥 Contribution Heatmap
-
-![GitHub Contributions](https://ssr-contributions-svg.vercel.app/_/Yash55-max?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30&theme=pink)
-
-### 📈 Additional Developer Insights
+### Additional Developer Insights
 
 <table>
 <tr>
@@ -304,25 +262,19 @@ Git            ████████████████████ 90%
 
 **Public Repositories**
 
-![Repos](https://badges.pufler.dev/repos/Yash55-max?style=for-the-badge&logo=github&logoColor=white&color=green)
+![Repos](https://img.shields.io/badge/Public%20Repos-37+-2ea44f?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-### 💻 Coding Activity Tracker
-
-<!--START_SECTION:waka-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yash55max&theme=tokyonight&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-<!--END_SECTION:waka-->
-
-### 🌟 Repository Stats
+### Repository Stats
 
 ![Total Commits](https://img.shields.io/github/commit-activity/m/Yash55-max/FairHire-AI?style=for-the-badge&logo=git&logoColor=white&label=Commits%20(FairHire-AI))
 ![Last Commit](https://img.shields.io/github/last-commit/Yash55-max/Decidr?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit%20(Decidr))
 ![Code Size](https://img.shields.io/github/languages/code-size/Yash55-max/Vote-Saathi?style=for-the-badge&logo=files&logoColor=white&label=Vote-Saathi%20Size)
 
-### ⚡ Real-Time Activity
+### Activity Overview
 
 ![Activity](https://img.shields.io/github/commit-activity/w/Yash55-max/Yash55-max?style=for-the-badge&logo=github&label=Weekly%20Commits)
 ![Updated](https://img.shields.io/github/last-commit/Yash55-max/Yash55-max?style=for-the-badge&logo=clockify&label=Profile%20Updated)
@@ -332,25 +284,25 @@ Git            ████████████████████ 90%
 ---
 
 
-## 📈 Why Hire Me?
+## Why Hire Me?
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🎯 **Problem Solver**
+### **Problem Solver**
 I identify real pain points and build solutions that create measurable impact — not just technology for technology's sake.
 
 </td>
 <td width="33%" align="center">
 
-### 🚀 **Fast Executor**
+### **Fast Executor**
 From concept to deployed product in weeks. I ship production-ready applications, not prototypes.
 
 </td>
 <td width="33%" align="center">
 
-### 🧠 **AI/ML Expertise**
+### **AI/ML Expertise**
 Strong foundation in ML engineering with hands-on experience in bias detection, NLP, and predictive analytics.
 
 </td>
@@ -359,7 +311,7 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 
 ---
 
-## 📊 GitHub Activity & Metrics
+## GitHub Activity & Metrics
 
 <div align="center">
 
@@ -367,12 +319,12 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
 
 </td>
 </tr>
@@ -384,13 +336,7 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 
 <br/>
 
-### 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yash55-max&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-### 📈 Contribution Stats
+### Contribution Highlights
 
 <table>
 <tr>
@@ -409,15 +355,11 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 </tr>
 </table>
 
-### 🌐 GitHub Skyline
-
-[![GitHub Skyline](https://img.shields.io/badge/View_My_GitHub_Skyline_2024-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Yash55-max/2024)
-
 </div>
 
 ---
 
-## 🎓 Education & Continuous Learning
+## Education & Continuous Learning
 
 <table>
 <tr>
@@ -426,7 +368,7 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 **Bachelor of Technology in Computer Science Engineering**
 *Expected Graduation: May 2026*
 
-📚 **Currently Deep Diving Into:**
+**Currently Deep Diving Into:**
 - Advanced Deep Learning Architectures (Transformers, LLMs)
 - MLOps & Model Deployment Best Practices
 - Causal Inference & Explainable AI
@@ -435,12 +377,11 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 </td>
 <td width="40%" align="center">
 
-### 📈 Coding Activity
+### Coding Activity
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-Tracking-blue?style=flat-square&logo=clockify)
+![Code Time](https://img.shields.io/badge/Code%20Time-Active-blue?style=flat-square&logo=clockify)
 
-**Languages I Code In:**
+**Primary Languages:**
 
 Python     ████████████░░░  75%
 JavaScript ████░░░░░░░░░░░  25%
@@ -451,20 +392,20 @@ JavaScript ████░░░░░░░░░░░  25%
 
 ---
 
-## 💼 What I'm Looking For
+## What I'm Looking For
 
 I'm seeking **full-time opportunities** where I can:
 
-✅ Build AI/ML systems that solve real business problems
-✅ Work with cross-functional teams on impactful products
-✅ Contribute to ethical AI and responsible innovation
-✅ Continuously learn from experienced engineers and researchers
+- Build AI/ML systems that solve real business problems
+- Work with cross-functional teams on impactful products
+- Contribute to ethical AI and responsible innovation
+- Continuously learn from experienced engineers and researchers
 
 **Ideal Roles**: Machine Learning Engineer • Data Scientist • AI Engineer • Full-Stack ML Developer
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -478,11 +419,15 @@ I'm seeking **full-time opportunities** where I can:
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## Contribution Grid Animation
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Yash55-max/Yash55-max/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash55-max/Yash55-max/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash55-max/Yash55-max/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Yash55-max/Yash55-max/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -490,9 +435,9 @@ I'm seeking **full-time opportunities** where I can:
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Dev Philosophy
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"I never in my wildest dreams would have predicted the evolution of the Internet. And I never would've predicted the degree to which corporate influence over the Internet has changed its character over time."* — **Aaron Swartz**
 
 <br/>
 
@@ -500,7 +445,7 @@ I'm seeking **full-time opportunities** where I can:
 
 <br/><br/>
 
-**⭐ If you find my work interesting, consider starring my repositories!**
+**If you find my work interesting, consider starring my repositories!**
 
 <br/>
 </div>
