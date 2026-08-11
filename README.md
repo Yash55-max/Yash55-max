@@ -332,7 +332,7 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yash55-max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yash55-max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27)
 
 <br/>
 
