@@ -41,114 +41,14 @@ class DataScientist:
 
 ---
 
-## Impactful Projects
+## Latest Projects (Top 4)
 
-### **Enterprise AI & Ethics**
-
-<table>
-<tr>
-<td width="50%">
-
-#### [FairHire AI](https://github.com/Yash55-max/FairHire-AI)
-**Enterprise hiring bias detection platform**
-
-- Built end-to-end ML pipeline for automated bias auditing
-- Implemented explainable AI with SHAP for transparent decision-making
-- Generated compliance-ready reports for board presentations
-- **Impact**: Simulates "what-if" scenarios for ethical hiring workflows
-
-**Tech**: Python • scikit-learn • SHAP • Pandas • ML Pipelines
-
-</td>
-<td width="50%">
-
-#### [Decidr](https://github.com/Yash55-max/Decidr)
-**AI-powered decision intelligence platform**
-
-- Combined data analysis, ML modeling, and reasoning engines
-- Helps users make data-driven decisions with confidence scores
-- Integrated multiple AI techniques for robust recommendations
-- **Impact**: Reduces decision paralysis with quantified insights
-
-**Tech**: Python • TensorFlow • Data Analytics • AI Reasoning
-
-</td>
-</tr>
-</table>
-
-### **Product & User Experience**
-
-<table>
-<tr>
-<td width="50%">
-
-#### [Vote Saathi](https://github.com/Yash55-max/Vote-Saathi)
-**Context-aware election assistant for India**
-
-- Integrated Gemini AI with Google Maps for localized guidance
-- Real-time Firebase sync for live election updates
-- Location-based recommendations for voter information
-- **Impact**: Empowers 1.4B citizens with intelligent civic tech
-
-**Tech**: Gemini AI • Google Maps API • Firebase • React
-
-</td>
-<td width="50%">
-
-#### [Last Signal](https://github.com/Yash55-max/Last-Signal)
-**Anonymous late-night connection PWA**
-
-- Real-time 1:1 chat unlocked only during "signal windows"
-- Built with React 19 and Framer Motion for smooth UX
-- Battery & time-based triggers for authentic connections
-- **Impact**: 500+ users finding calm human connection at night
-
-**Tech**: React 19 • Firebase • Framer Motion • PWA
-
-</td>
-</tr>
-</table>
-
-### **Quantitative Analysis & Simulation**
-
-<table>
-<tr>
-<td width="50%">
-
-#### [PathDiverge](https://github.com/Yash55-max/PathDiverge)
-**Monte Carlo career trajectory simulator**
-
-- Runs 2,500+ simulations per session for career outcomes
-- Models Director+ probability & retirement projections
-- Full-stack implementation with React frontend + Python engine
-- **Impact**: Helps professionals quantify long-term career decisions
-
-**Tech**: React • Python • Monte Carlo • Statistical Modeling
-
-</td>
-<td width="50%">
-
-#### [BTC Regime Analysis](https://github.com/Yash55-max/Btc-Regime-Analysis)
-**Quantitative Bitcoin trading framework**
-
-- Dual-window detection engine for market regime identification
-- Adapts exposure based on drift analysis
-- Part of "The Sentinel Project" quant framework
-- **Impact**: Data-driven cryptocurrency trading strategy
-
-**Tech**: Python • NumPy • Pandas • Quantitative Finance
-
-</td>
-</tr>
-</table>
-
-### **More Production Apps**
-
-| Project | Problem Solved | Key Achievement |
-|---------|---------------|-----------------|
-| [**FlowSync AI**](https://github.com/Yash55-max/FlowSync-AI) | Crowd management at large events | Optimizes attendee flow & reduces wait times |
-| [**Media Muse**](https://github.com/Yash55-max/Media-Muse) | Generic music recommendations | Context-aware suggestions using location + time + mood |
-| [**StockBot**](https://github.com/Yash55-max/StockBot-) | Manual inventory tracking | Real-time automated stock management system |
+| Project | What It Solves | Why It Stands Out |
+|---------|-----------------|-------------------|
+| [**ClearLedger**](https://github.com/Yash55-max/ClearLedger) | Vendor reconciliation and AP audit complexity | Deterministic matching plus AI anomaly detection for finance operations |
+| [**llm-devops**](https://github.com/Yash55-max/llm-devops) | Self-serve LLM infrastructure setup | End-to-end Kubernetes-based LLM platform from local kind to AKS deployment |
+| [**multi-agent-research**](https://github.com/Yash55-max/multi-agent-research) | Slow and fragmented technical research workflows | Multi-agent system for faster synthesis, verification, and traceable insights |
+| [**SahakarConnect**](https://github.com/Yash55-max/SahakarConnect) | Citizen-service access and coordination gaps | Practical civic-tech product focused on streamlined community interaction |
 
 ## Technical Arsenal
 
