@@ -1,0 +1,84 @@
+name: Repository Activity Bot
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-scanner-bot
+  cancel-in-progress: false
+
+jobs:
+  scan-and-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      # Git author credentials for commits:
+      # Set to your GitHub username and email to attribute commits to your profile / contribution streak.
+      # To attribute to the default GitHub Actions bot instead, change to 'github-actions[bot]' and 'github-actions[bot]@users.noreply.github.com'
+      GIT_USER_NAME: "Yash55-max"
+      GIT_USER_EMAIL: "yashwanthponnam55@gmail.com"
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scan Repositories
+        id: scanner
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: PAT_TOKEN for scanning private repositories
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python scripts/scan_repos.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "${{ env.GIT_USER_NAME }}"
+          git config --local user.email "${{ env.GIT_USER_EMAIL }}"
+
+          # Stage activity output files
+          git add data/repo-activity.json data/activity.log
+
+          # Ensure something is staged even if no file content changed
+          if git diff --staged --quiet; then
+            echo "No changes staged; updating heartbeat timestamp..."
+            echo "Heartbeat: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > data/heartbeat.txt
+            git add data/heartbeat.txt
+          fi
+
+          # Determine commit message
+          COMMIT_MSG="${{ steps.scanner.outputs.commit_msg }}"
+          if [ -z "$COMMIT_MSG" ] && [ -f data/.commit_msg ]; then
+            COMMIT_MSG=$(cat data/.commit_msg)
+          fi
+          if [ -z "$COMMIT_MSG" ]; then
+            COMMIT_MSG="chore(bot): routine 6-hour heartbeat scan [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          fi
+
+          # Clean up ephemeral commit message file
+          rm -f data/.commit_msg
+
+          echo "Committing with message: $COMMIT_MSG"
+          git commit -m "$COMMIT_MSG"
+
+          # Rebase on latest remote main and push
+          git pull --rebase origin main
+          git push origin main

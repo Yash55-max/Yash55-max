@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Temporary bot files
+data/.commit_msg
+.commit_msg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
