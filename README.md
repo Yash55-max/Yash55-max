@@ -168,12 +168,6 @@ Git            ████████████████████ 90%
 </tr>
 </table>
 
-### Repository Stats
-
-![Total Commits](https://img.shields.io/github/commit-activity/m/Yash55-max/llm-devops?style=for-the-badge&logo=git&logoColor=white&label=Commits%20(LLM-DEVOPS))
-![Last Commit](https://img.shields.io/github/last-commit/Yash55-max/Decidr?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit%20(Decidr))
-![Code Size](https://img.shields.io/github/languages/code-size/Yash55-max/Vote-Saathi?style=for-the-badge&logo=files&logoColor=white&label=Vote-Saathi%20Size)
-
 ### Activity Overview
 
 ![Activity](https://img.shields.io/github/commit-activity/w/Yash55-max/Yash55-max?style=for-the-badge&logo=github&label=Weekly%20Commits)
