@@ -1,17 +1,30 @@
 {
-  "last_scan_utc": "2026-09-24T02:27:43Z",
-  "status": "no_changes",
+  "last_scan_utc": "2026-09-24T10:50:03Z",
+  "status": "changes_detected",
   "total_repos": 41,
-  "changed_repos": [],
+  "changed_repos": [
+    "llm-devops"
+  ],
   "new_repos": [],
-  "heartbeat": "2026-09-24T02:27:43Z",
+  "heartbeat": "2026-09-24T10:50:03Z",
   "repos": [
+    {
+      "name": "llm-devops",
+      "html_url": "https://github.com/Yash55-max/llm-devops",
+      "description": "Self-serve LLM inference platform on Kubernetes \u2014 from local kind to AWS EKS, with full CI/CD, IaC, and observability (Prometheus/Grafana/Alertmanager).",
+      "pushed_at": "2026-09-24T10:04:46Z",
+      "updated_at": "2026-09-24T10:04:44Z",
+      "stars": 0,
+      "forks": 0,
+      "language": "HCL",
+      "is_fork": false
+    },
     {
       "name": "Yash55-max",
       "html_url": "https://github.com/Yash55-max/Yash55-max",
       "description": null,
-      "pushed_at": "2026-09-23T20:54:17Z",
-      "updated_at": "2026-09-23T20:54:21Z",
+      "pushed_at": "2026-09-24T03:47:40Z",
+      "updated_at": "2026-09-24T02:27:50Z",
       "stars": 1,
       "forks": 0,
       "language": "Python",
@@ -59,17 +72,6 @@
       "stars": 0,
       "forks": 0,
       "language": "Python",
-      "is_fork": false
-    },
-    {
-      "name": "llm-devops",
-      "html_url": "https://github.com/Yash55-max/llm-devops",
-      "description": "Self-serve LLM inference platform on Kubernetes \u2014 from local kind to AWS EKS, with full CI/CD, IaC, and observability (Prometheus/Grafana/Alertmanager).",
-      "pushed_at": "2026-09-05T11:48:14Z",
-      "updated_at": "2026-09-05T11:48:19Z",
-      "stars": 0,
-      "forks": 0,
-      "language": "HCL",
       "is_fork": false
     },
     {
