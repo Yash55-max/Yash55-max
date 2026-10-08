@@ -2,7 +2,7 @@
 
 # Yashwanth Ponnam
 
-### AI/ML Engineer | Building Intelligence into Products
+### DevOps Engineer | Building Reliable Cloud Platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-ponnam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com)
@@ -10,7 +10,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Production+ML+Systems;Ethical+AI+%26+Bias+Detection;Data-Driven+Decision+Intelligence)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Automation;Kubernetes+%26+Platform+Engineering;CI%2FCD+%26+Release+Reliability;Observability+Driven+Operations)
 
 </div>
 
@@ -19,25 +19,25 @@
 ## What I Bring to the Table
 
 ```python
-class DataScientist:
+class DevOpsEngineer:
     def __init__(self):
         self.name = "Yashwanth Ponnam"
-        self.role = "AI/ML Engineer"
+        self.role = "DevOps Engineer"
         self.education = "B.Tech Computer Science (2026)"
 
     def core_competencies(self):
         return {
-            "ml_engineering": ["Model Development", "Feature Engineering", "Pipeline Optimization"],
-            "ai_applications": ["Bias Detection", "Predictive Analytics", "NLP Systems"],
-            "full_stack": ["React", "Firebase", "REST APIs", "Cloud Deployment"],
-            "business_value": ["Problem-Solving", "Stakeholder Communication", "Impact Metrics"]
+            "platform_engineering": ["Kubernetes", "Containerization", "Environment Standardization"],
+            "automation": ["CI/CD Pipelines", "Infrastructure as Code", "Release Workflows"],
+            "reliability": ["Monitoring", "Incident Response", "Performance Optimization"],
+            "cloud_operations": ["AWS/Azure/GCP Foundations", "Service Integration", "Cost-Aware Scaling"]
         }
 
     def what_drives_me(self):
-        return "Building AI systems that solve real problems, not just demos"
+        return "Building dependable developer platforms that ship faster with less risk"
 ```
 
-**Key Differentiator**: I don't just build models — I ship production-ready AI applications with measurable business impact. From bias auditing platforms to real-time decision intelligence, I bridge the gap between research and deployment.
+**Key Differentiator**: I focus on turning complex delivery workflows into repeatable, reliable systems. From local setup to production rollout, I design DevOps foundations that improve deployment speed, stability, and team confidence.
 
 ---
 
@@ -50,42 +50,44 @@ class DataScientist:
 | [**multi-agent-research**](https://github.com/Yash55-max/multi-agent-research) | Slow and fragmented technical research workflows | Multi-agent system for faster synthesis, verification, and traceable insights |
 | [**SahakarConnect**](https://github.com/Yash55-max/SahakarConnect) | Citizen-service access and coordination gaps | Practical civic-tech product focused on streamlined community interaction |
 
-## Technical Arsenal
+## DevOps Arsenal
 
 <div align="center">
 
-### Machine Learning & Data Science
+### Cloud & Platform
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### Full-Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### AI APIs & Cloud
+### Observability & Runtime
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Tools & Workflow
+### Dev Workflow & Tooling
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br/><br/>
 
 ### Language Usage & Skills Breakdown
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yash55-max&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
 
 ### Skill Levels
 
@@ -96,8 +98,8 @@ class DataScientist:
 **Languages**
 ```text
 Python         ████████████████████ 95%
-JavaScript     ████████████████░░░░ 80%
-TypeScript     ███████████████░░░░░ 75%
+Bash           █████████████████░░░ 82%
+YAML           ████████████████░░░░ 80%
 SQL            ██████████████░░░░░░ 70%
 ```
 
@@ -106,9 +108,9 @@ SQL            ██████████████░░░░░░ 70%
 
 **Frameworks & Tools**
 ```text
-React          ████████████████░░░░ 85%
-TensorFlow     ███████████████░░░░░ 75%
-Firebase       ████████████████░░░░ 80%
+Kubernetes     ████████████████░░░░ 82%
+Docker         █████████████████░░░ 85%
+Terraform      ███████████████░░░░░ 76%
 Git            ████████████████████ 90%
 ```
 
@@ -184,20 +186,20 @@ Git            ████████████████████ 90%
 <tr>
 <td width="33%" align="center">
 
-### **Problem Solver**
-I identify real pain points and build solutions that create measurable impact — not just technology for technology's sake.
+### **Systems Thinker**
+I design delivery pipelines and cloud environments that reduce friction, improve reliability, and scale with product growth.
 
 </td>
 <td width="33%" align="center">
 
-### **Fast Executor**
-From concept to deployed product in weeks. I ship production-ready applications, not prototypes.
+### **Automation First**
+I eliminate repetitive manual work through CI/CD, infrastructure automation, and workflow standardization.
 
 </td>
 <td width="33%" align="center">
 
-### **AI/ML Expertise**
-Strong foundation in ML engineering with hands-on experience in bias detection, NLP, and predictive analytics.
+### **Reliability Focused**
+I prioritize observability, safe rollouts, and operational excellence to keep systems stable under change.
 
 </td>
 </tr>
@@ -213,12 +215,12 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yash55-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash55-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
 
 </td>
 </tr>
@@ -263,22 +265,22 @@ Strong foundation in ML engineering with hands-on experience in bias detection, 
 *Expected Graduation: May 2026*
 
 **Currently Deep Diving Into:**
-- Advanced Deep Learning Architectures (Transformers, LLMs)
-- MLOps & Model Deployment Best Practices
-- Causal Inference & Explainable AI
-- System Design for ML Applications
+- Kubernetes Production Patterns & Cluster Operations
+- Infrastructure as Code at Scale (Terraform + GitOps)
+- Observability, SLOs, and Incident Playbooks
+- Secure CI/CD and Progressive Delivery
 
 </td>
 <td width="40%" align="center">
 
-### Coding Activity
+### Platform Learning Focus
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-Active-blue?style=flat-square&logo=clockify)
 
-**Primary Languages:**
+**Current Focus Areas:**
 
-Python     ████████████░░░  75%
-JavaScript ████░░░░░░░░░░░  25%
+Kubernetes  ███████████░░░░  70%
+Terraform   ██████████░░░░░  65%
 
 </td>
 </tr>
@@ -290,12 +292,12 @@ JavaScript ████░░░░░░░░░░░  25%
 
 I'm seeking **full-time opportunities** where I can:
 
-- Build AI/ML systems that solve real business problems
-- Work with cross-functional teams on impactful products
-- Contribute to ethical AI and responsible innovation
-- Continuously learn from experienced engineers and researchers
+- Build reliable cloud infrastructure and internal developer platforms
+- Improve deployment velocity through automation and CI/CD excellence
+- Strengthen monitoring, incident readiness, and operational resilience
+- Collaborate with product and engineering teams to scale systems safely
 
-**Ideal Roles**: Machine Learning Engineer • Data Scientist • AI Engineer • Full-Stack ML Developer
+**Ideal Roles**: DevOps Engineer • Site Reliability Engineer • Platform Engineer • Cloud Engineer
 
 ---
 
@@ -303,7 +305,7 @@ I'm seeking **full-time opportunities** where I can:
 
 <div align="center">
 
-**Open to discussing opportunities, collaborations, or just talking about AI/ML!**
+**Open to discussing opportunities, collaborations, or platform/devops engineering challenges!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-ponnam)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com)
