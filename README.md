@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-ponnam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthponnam55@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Yash55-max)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
 <br/>
 
