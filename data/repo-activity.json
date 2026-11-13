@@ -1,16 +1,29 @@
 {
-  "last_scan_utc": "2026-11-13T04:22:02Z",
-  "status": "no_changes",
+  "last_scan_utc": "2026-11-13T13:42:08Z",
+  "status": "changes_detected",
   "total_repos": 43,
-  "changed_repos": [],
+  "changed_repos": [
+    "asus-thermals-control"
+  ],
   "new_repos": [],
-  "heartbeat": "2026-11-13T04:22:02Z",
+  "heartbeat": "2026-11-13T13:42:08Z",
   "repos": [
+    {
+      "name": "asus-thermals-control",
+      "html_url": "https://github.com/Yash55-max/asus-thermals-control",
+      "description": "Thermal Control center  for ASUS Vivobook",
+      "pushed_at": "2026-11-13T11:12:20Z",
+      "updated_at": "2026-11-08T12:48:59Z",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "is_fork": false
+    },
     {
       "name": "Yash55-max",
       "html_url": "https://github.com/Yash55-max/Yash55-max",
       "description": null,
-      "pushed_at": "2026-11-12T23:01:21Z",
+      "pushed_at": "2026-11-13T05:41:46Z",
       "updated_at": "2026-11-12T15:22:05Z",
       "stars": 0,
       "forks": 0,
@@ -26,17 +39,6 @@
       "stars": 0,
       "forks": 0,
       "language": "HTML",
-      "is_fork": false
-    },
-    {
-      "name": "asus-thermals-control",
-      "html_url": "https://github.com/Yash55-max/asus-thermals-control",
-      "description": "Thermal Control center  for ASUS Vivobook",
-      "pushed_at": "2026-11-08T12:43:03Z",
-      "updated_at": "2026-11-08T12:48:59Z",
-      "stars": 0,
-      "forks": 0,
-      "language": "Python",
       "is_fork": false
     },
     {
